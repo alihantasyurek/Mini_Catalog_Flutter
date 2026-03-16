@@ -1,17 +1,76 @@
-# asd
+# Mini Catalog
 
-A new Flutter project.
+A  Mini Catalog Flutter App.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-3.41-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
-This project is a starting point for a Flutter application.
+This project is a Flutter-based mobile application developed during my Software Development Internship at Software Persona as part of a mobile application development training program focused on building Android and iOS apps with Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+The application demonstrates fundamental Flutter concepts including UI layout, product listing using GridView, page navigation, search functionality, asset image usage, and basic state management.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Product catalog displayed using GridView
+- Product detail page
+- Page navigation using Navigator
+- Search functionality
+- Add to cart simulation
+- Product image assets
+- Clean Material UI design
+
+---
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Material UI Widgets
+
+---
+
+## Flutter Version
+
+Flutter 3.41.3
+
+---
+
+## How to Run
+
+1. Clone the repository
+
+git clone git@github.com:alihantasyurek/Mini_Catalog_Flutter.git
+
+2. Navigate to the project folder
+
+cd Mini_Catalog_Flutter
+
+3. Install dependencies
+
+flutter pub get
+
+4. Run the application
+
+flutter run
+
+Make sure Flutter SDK is installed and properly configured.
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/1.png)
+
+### Product Detail Page
+![Product Detail Page](screenshots/2.png)
+
+### Add to Cart
+![Add to Cart](3/cart.png)
+
+### The Cart
+![The Cart](4/cart.png)
+
+### Order Completion
+![Order Completion](5/cart.png)
