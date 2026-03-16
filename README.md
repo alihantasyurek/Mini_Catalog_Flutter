@@ -42,7 +42,7 @@ Flutter 3.41.3
 
 1. Clone the repository
 
-git clone git@github.com:alihantasyurek/Mini_Catalog_Flutter.git
+git clone https://github.com/alihantasyurek/Mini_Catalog_Flutter.git
 
 2. Navigate to the project folder
 
