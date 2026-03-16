@@ -67,10 +67,10 @@ Make sure Flutter SDK is installed and properly configured.
 ![Product Detail Page](screenshots/2.png)
 
 ### Add to Cart
-![Add to Cart](3/cart.png)
+![Add to Cart](screenshots/3.png)
 
 ### The Cart
-![The Cart](4/cart.png)
+![The Cart](screenshots/4.png)
 
 ### Order Completion
-![Order Completion](5/cart.png)
+![Order Completion](screenshots/5.png)
